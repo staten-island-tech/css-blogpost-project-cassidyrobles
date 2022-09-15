@@ -1,11 +1,3 @@
-body {
-  background-color: aqua;
-  color: pink;
-  font-size: 25px;
-}
-h1 {
-  color: green;
-}
-.white-font {
-  color: white;
+.head {
+  text-align: center;
 }
