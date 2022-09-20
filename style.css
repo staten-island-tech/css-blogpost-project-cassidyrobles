@@ -1,5 +1,10 @@
 .head {
-  background-color: red;
-  height: 30vh;
-  width: 50vw;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-size: 100px;
+  color: #5e35b1;
+}
+
+body {
+  background-color: lavenderblush;
 }
