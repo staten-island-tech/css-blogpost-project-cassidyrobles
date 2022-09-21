@@ -8,3 +8,33 @@
 body {
   background-color: lavenderblush;
 }
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 90px;
+  text-align: center;
+  color: #7b68ee;
+}
+.text {
+  font-size: 75px;
+  color: #7b68ee;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+}
+.descriptions {
+  font-size: 30px;
+  color: #7b68ee;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.img {
+  width: 40%;
+  margin: 10px auto;
+  display: block;
+}
+
+.album {
+  border: 5px solid #7b68ee;
+  width: 50vw;
+  height: 85vh;
+  margin: 20px auto;
+}
