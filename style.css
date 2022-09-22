@@ -14,12 +14,15 @@ h1 {
   text-align: center;
   color: #7b68ee;
 }
+
 .text {
+  text-align: center;
   font-size: 75px;
   color: #7b68ee;
-  text-align: center;
   font-family: "Pacifico", cursive;
-}
+  padding: 10px auto;
+  }
+
 .descriptions {
   font-size: 30px;
   color: #7b68ee;
@@ -35,6 +38,8 @@ h1 {
 .album {
   border: 5px solid #7b68ee;
   width: 50vw;
-  height: 85vh;
+  height: 70vh;
   margin: 20px auto;
+  background-color: #ffe2ec;
+  border-radius: 25px;
 }
